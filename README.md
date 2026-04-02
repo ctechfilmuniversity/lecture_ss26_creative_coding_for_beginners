@@ -1,1 +1,1 @@
-# lecture_ss26_creative_coding_for_beginners
+# [https://github.com/ctechfilmuniversity/lecture_ss26_creative_coding_for_beginners](https://github.com/ctechfilmuniversity/lecture_ss26_creative_coding_for_beginners)
