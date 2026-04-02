@@ -8,20 +8,11 @@ nav_order: 1
 # Creative Coding For Beginners
   
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
-Elena Vasilkova \| elena.vasilkova@filmuniversitaet.de
   
   
-# Exercise 01 - Introduction
+# Exercise 01 - Introduction - 20 Points
 
-This session is due on **Tuesday, April 15th** before class.  
-
-* [Creative Coding For Beginners](#creative-coding-for-beginners)
-* [Exercise 01 - Introduction](#exercise-01---introduction)
-    * [Task 01.01 - Scripts](#task-0101---scripts)
-    * [Task 01.02 - Setup](#task-0102---setup)
-    * [Task 01.03 - Motivation](#task-0103---motivation)
-    * [Task 01.04 - Drawing](#task-0104---drawing)
-        * [Inspiration](#inspiration)
+This session is due on **Tuesday, April 21st** before class.  
 
 
 ## Task 01.01 - Scripts
@@ -34,31 +25,29 @@ Recap the slides:
 
 *Submission*: -
 
-## Task 01.02 - Setup
+## Task 01.02 - Setup - 1 Point
 
 1. Create a account for the [p5.js Editor](https://editor.p5js.org/).
 2. Copy the template file in the [OwnCloud Folder](https://owncloud.gwdg.de/index.php/s/X83JlgmlO12V7Op) (PW: coding) and name it YourLastname_YourFirstName.
 
 *Submission*: -
 
-## Task 01.03 - Motivation
+## Task 01.03 - Motivation - 5 Points
 
 Think about it why you want to learn creative coding. What would you like to achieve with it? What could be an interesting final project for you? 
-
-Bullet points as answer are sufficient but please use whole sentences. 
 
 *Submission*: Text directly in your OwnCloud file.
 
 
-## Task 01.04 - Drawing
+## Task 01.04 - Drawing - 14 Points
 
-1. Draw the following house by *combining* shapes. 
-2. Draw the same house with `beginShape` and `endShape`.  
+1. Draw the following house by *combining* shapes. (1 Points)
+2. Draw the same house with `beginShape` and `endShape`. (2 Points)
 ![house](img/house.png)  
-3. Draw a smiley with simple shapes.   
+3. Draw a smiley with simple shapes. (4 Points)
 For this task, you will need to have a look at [arcs](../../02_scripts/ccfb_ss26_03_drawing_script.md#arc).  
 ![face](img/face.png)
-4. Draw a creative image with simple shapes. 
+4. Draw a creative image with simple shapes. (7 Points)
 
 ### Inspiration
 
