@@ -13,8 +13,6 @@ class: center, middle, inverse
 
 #### Film University Babelsberg KONRAD WOLF
 
-<br />
-.center[<img src="./img/iart_logo_01.png" alt="iart_logo_01" style="width:100%;">]
 
 
 ---
@@ -31,27 +29,33 @@ template:inverse
 
 Open [https://editor.p5js.org/](https://editor.p5js.org/)
 
-
 ---
 layout: false
 
+## JavaScript
+
+* A programming language
+* Dedicated to dynamic websites
+
+--
+
+> There are hundreds of different programming languages...
+
+
+
+---
 ## [p5.js](https://p5js.org/)
 
-* p5.js is a library for the programming language **JavaScript**
+* A library for the programming language **JavaScript**
+    * Think *plug-in*
 
 ???
 Think software and Plugin
 
 --
 
-    * You write JavaScript code but you have additional commands from p5
+* You write JavaScript code but you have additional commands from p5
 
---
-* p5 is based on the Java framework **Processing**
-    * Processing came first
-    * p5 is Processing running in a Webbrowser
-    * They are very similar
-  
 --
   
 <br />
@@ -63,16 +67,25 @@ Think software and Plugin
 ## Processing
 
 --
-* 2001 developed in the research group Aesthetics and Computation of the Technology Media Labs at the MIT by the students Ben Fry and Casey Reas
+* p5 is based on the Java framework **Processing**
+    * Processing came first
+    * p5 is Processing running in a Webbrowser
+    * They are very similar
+
+--
+* 2001 developed in the research group *Aesthetics and Computation* of the Technology Media Labs at the MIT by the students Ben Fry and Casey Reas
 
 --
 * 2012 the Processing Foundation (a non-profit corporation) was established
 
---
+---
+
+## Processing
 
 > Our mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields — and to make these fields accessible to diverse communities. Our goal is to empower people of all interests and backgrounds to learn how to program and make creative work with code, especially those who might not otherwise have access to these tools and resources.
 
 
+  
 
 
 ???
@@ -99,15 +112,14 @@ One of the aspects that made Processing, and now p5, so popular is its community
 * [Generative Gestaltung](http://www.generative-gestaltung.de)
 * [Creative Applications](https://www.creativeapplications.net/category/processing/)
 * The fairest of them all: [Daniel Shiffmann](https://shiffman.net/) 🤴🏻
-    * [Daniel Shiffman - The Coding Train Intro](https://www.youtube.com/watch?v=_t0ZBAk72K8)
 
-We will come back to these.
 
 
 ???
-  
 
-* Show coding train intro
+* [Daniel Shiffman - The Coding Train Intro](https://www.youtube.com/watch?v=_t0ZBAk72K8)
+* We will come back to these.
+
 
 
 ---

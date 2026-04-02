@@ -13,9 +13,6 @@ class: center, middle, inverse
 
 #### Film University Babelsberg KONRAD WOLF
 
-<br />
-.center[<img src="./img/iart_logo_01.png" alt="iart_logo_01" style="width:100%;">]
-
 
 ---
 template:inverse
@@ -25,7 +22,27 @@ template:inverse
 ---
 layout: false
 
+.header[On a Side Note]
+
+## Syntax vs. Algorithm
+
+--
+
+Syntax
+* The words and grammar of a language
+* Must be followed
+
+--
+
+Algorithm
+* What to do with the language
+* Created by you
+
+---
+
 ## Function Calls
+
+Syntax for a circle:
 
 
 ```js
@@ -45,7 +62,11 @@ circle(200, 200, 100);
 
 --
   
+
 * A program is a list of function calls
+
+???
+* Everybody draw a circle!
 
 ---
 layout: false
@@ -77,7 +98,7 @@ function circle(posX, posY, radius) {
 
 ???
 * https://github.com/processing/p5.js/
-* 
+
 
 
 
@@ -1103,19 +1124,27 @@ function setup() {
     
     // Background color
     background(255, 200, 10);
+    noStroke();
 }
 
 function draw() {
     
-    fill(255, 150, 0); // The Sun
-    noStroke();
-    //ellipse(150, 240, 200, 200);
-    ellipse(150, 200, 200, 200);
+    // The Sun
+    fill(255, 150, 0); 
+    circle(150, 200, 200);
+
+    // Version 2
+    //fill(255, 220, 0); 
+    //circle(150, 100, 280);
+    
 
     fill(255, 255, 0); // The Water
     rect(0, 250, 500, 250);
 }
 </script>
+
+???
+Everybody copy the code and change something
 
 ---
 template:inverse

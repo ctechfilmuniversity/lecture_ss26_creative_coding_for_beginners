@@ -12,8 +12,6 @@ class: center, middle, inverse
 
 #### Film University Babelsberg KONRAD WOLF
 
-<br />
-.center[<img src="./img/iart_logo_01.png" alt="iart_logo_01" style="width:100%;">]
 
 
 ???
@@ -228,8 +226,8 @@ Application:
 * Drawings, colors
 * Interaction
 * Movement / Animation
-* (Image, video)
-* (Sound)
+* Image, video
+* Sound
   
 What is *creative* coding?
 ]
@@ -246,13 +244,9 @@ What is *creative* coding?
 
 .center[<img src="./img/intro/brera_poster_a_01.png" alt="brera_poster_a_01" style="width:36%;">]
 
----
-.header[Code as Material]
+???
 
 .center[<img src="./img/intro/brera_poster_c_01.png" alt="brera_poster_c_01" style="width:76%;">]
-
----
-.header[Code as Material]
 
 .center[<img src="./img/intro/brera_poster_f_01.png" alt="brera_poster_f_01" style="width:76%;">]
 
@@ -265,88 +259,8 @@ What is *creative* coding?
 </video>  
 ]
 
----
-template:inverse
-
-# Introductions
-
-
-
----
-## Who am I?
-
---
-
-* Bachelor in Computer Science (Vordiplom)
-* Master in Fine Art (MFA Dramatic Media)
-* 6 years in the industry (VFX, R&D, Software Development)
-* Phd in Computer Science (Dr. rer. nat. Computer Graphics)
-
---
-
-<br />
-
-* Film University Babelsberg KONRAD WOLF, Potsdam, Germany
-* Professor for Image-based Media Technologies
-* MA Creative Technologies
-
----
-## MA Creative Technologies
-
-> Computer Science meets Creativity, Art & Film...
-
---
-
-.center[[<img src="./img/intro/ctech_01.png" alt="ctech_01" style="width:70%;">](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies)]  
-
-[Filmuni Website ⇗](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies)
-
----
-## MA Creative Technologies
-
-> Computer Science meets Creativity, Art & Film...
-
-
-.center[[<img src="./img/intro/ctech_03.png" alt="ctech_03" style="width:55%;">](https://www.instagram.com/ctech.filmuniversity/)]  
-
-[Instagram: ctech.filmuniversity ⇗](https://www.instagram.com/ctech.filmuniversity/)
-
-
-
----
-## Film University Babelsberg KONRAD WOLF
-
---
-
-* Largest film school in Germany (established 1954), now public university
-
---
-
-* About 100 in-house film productions yearly
-
---
-
-* State-of-the-art equipment and environments (2 studios, 150 and 300 sqm)
-
-.center[<img src="./img/intro/filmuni_01.jpg" alt="studio_01" style="width:70%;"> .imgref[[Image: [Filmuni](https://www.filmuniversitaet.de/filmuni/gebaeude-infrastruktur/studios-und-technik)]]]
-
 ???
-* e.g., Sony F55, ARRI Alexa, Panasonic VariCam, Harrison MPC4D console with Dolby Atmos
-* ceiling lighting rigs
-
----
-## Film University Babelsberg KONRAD WOLF
-
-.left-quarter[
-Neighbor: Babelsberg Film Studio, oldest large-scale film studio in the world, producing films since 1912.
-]
-.right-quarter[<img src="./img/intro/studio_01.jpg" alt="studio_01" style="width:78%;"> .imgref[[Image: [Studio Babelsberg](https://www.metropolitanbacklot.com/galerie/)]]]
-
-
-???
-* Hundreds of films, including Fritz Lang's Metropolis and Josef von Sternberg's The Blue Angel were filmed there. More recent productions include V for Vendetta, Captain America: Civil War, Æon Flux, The Bourne Ultimatum, Valkyrie, Inglourious Basterds, Cloud Atlas, The Grand Budapest Hotel, The Hunger Games, Isle of Dogs and The Matrix Resurrections. 
-
-
+https://editor.p5js.org/legie/sketches/9WDwO8l1U
 
 
 ---
@@ -357,13 +271,29 @@ template: inverse
 ---
 .header[Administration]
 
-## Schedule
+## Time & Place
 
-* 17/03, 14.00 - 18.00 (4h): workshop (room 32)  
-* 18/03, 12.00 - 14.00 (2 h): lecture (CIB)  
-* 18/03, 16.00 - 18.00 (2 h): workshop (room 32)  
-* 19/03, 14.00 - 18.00 (4h): workshop (room 32)  
-* 20/03, 14.00 - 18.00 (4h): workshop (room 32)  
+Tuesdays 14:00-17:00 on the following dates in room 5104:
+
+.left-even[
+* 07.04.2026
+* NO CLASS (14.04.2026)
+* 21.04.2026, Room 6119
+* NO CLASS (28.04.2026)
+* 05.05.2026
+* NO CLASS (12.05.2026)
+* NO CLASS (19.05.2026)
+
+]
+.right-even[
+* 26.05.2026
+* 02.06.2026, Room 6119
+* 09.06.2026
+* 16.06.2026
+* 23.06.2026
+* 30.06.2026
+* MAYBE 07.07.2026
+]
 
 ---
 .header[Administration]
@@ -371,7 +301,7 @@ template: inverse
 ## Materials
 
 
-All materials are published on the [course website](https://lenagieseke.github.io/workshop_codeasmaterial/)
+All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_ss26_creative_coding_for_beginners/)
 
 * Usually before class, the material for that day is uploaded
 
@@ -388,9 +318,9 @@ All coding is done in with the [p5.js Editor](https://editor.p5js.org/)
 .header[Administration | Materials]
 
 
-[https://lenagieseke.github.io/workshop_codeasmaterial/](https://lenagieseke.github.io/workshop_codeasmaterial/)
 
-.center[[<img src="./img/intro/qr_website.png" alt="qr_website" style="width:50%;">](https://lenagieseke.github.io/workshop_codeasmaterial/)]
+.center[[<img src="./img/intro/qr_website.png" alt="qr_website" style="width:50%;">](https://ctechfilmuniversity.github.io/lecture_ss26_creative_coding_for_beginners/)  
+.small[[https://ctechfilmuniversity.github.io/lecture_ss26_creative_coding_for_beginners/](https://ctechfilmuniversity.github.io/lecture_ss26_creative_coding_for_beginners/)]]
 
 
 

@@ -5,15 +5,9 @@ nav_order: 2
 has_children: false
 ---
 
-### Code as Material
-# Creative Coding Foundations for Artistic and Design Practices
+# Creative Coding for Beginners
 
-
-#### Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de  
-
-<br />
-
-![iart_logo_01](../01_slides/img/iart_logo_01.png)
+#### Prof. Dr. Lena Gieseke | lena.gieseke@filmuniversitaet.de  
 
 
 # Slides

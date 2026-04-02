@@ -5,54 +5,64 @@ parent: Exercises
 nav_order: 1
 ---
 
-### Workshop
-# Code as Material - From Instruction to Expression
-
+# Creative Coding For Beginners
   
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
-
-![iart_logo_01](../../01_slides/img/iart_logo_01.png)
-
----
-
+Elena Vasilkova \| elena.vasilkova@filmuniversitaet.de
   
   
-## Exercise 01 - Introduction  
+# Exercise 01 - Introduction
+
+This session is due on **Tuesday, April 15th** before class.  
+
+* [Creative Coding For Beginners](#creative-coding-for-beginners)
+* [Exercise 01 - Introduction](#exercise-01---introduction)
+    * [Task 01.01 - Scripts](#task-0101---scripts)
+    * [Task 01.02 - Setup](#task-0102---setup)
+    * [Task 01.03 - Motivation](#task-0103---motivation)
+    * [Task 01.04 - Drawing](#task-0104---drawing)
+        * [Inspiration](#inspiration)
 
 
-### Task 01.01 - Learning Materials
+## Task 01.01 - Scripts
 
 Recap the slides:
 
-* [Slides 01 - Intro](../../01_slides/codeasmaterial_01_intro_slides.html)
-* [Slides 02 - Setup](../../01_slides/codeasmaterial_02_setup_slides.html)
-* [Slides 03 - Drawing](../../01_slides/codeasmaterial_03_drawing_slides.html)
+* [Introduction](../../03_slides/ccfb_ss26_01_intro_slides.html)
+* [Setup](../../03_slides/ccfb_ss26_02_setup_slides.html)
+* [Drawing](../../03_slides/ccfb_ss26_03_drawing_slides.html)
+
+*Submission*: -
+
+## Task 01.02 - Setup
+
+1. Create a account for the [p5.js Editor](https://editor.p5js.org/).
+2. Copy the template file in the [OwnCloud Folder](https://owncloud.gwdg.de/index.php/s/X83JlgmlO12V7Op) (PW: coding) and name it YourLastname_YourFirstName.
+
+*Submission*: -
+
+## Task 01.03 - Motivation
+
+Think about it why you want to learn creative coding. What would you like to achieve with it? What could be an interesting final project for you? 
+
+Bullet points as answer are sufficient but please use whole sentences. 
+
+*Submission*: Text directly in your OwnCloud file.
 
 
-### Task 01.02 - Setup
-
-Create a account for the [p5.js Editor](https://editor.p5js.org/).
-
-
-
-### Task 01.03 - Motivation
-
-Think about it why you want to learn creative coding. What would you like to achieve with it? What could be an interesting project for you? 
-
-
-### Task 01.04 - Drawing
+## Task 01.04 - Drawing
 
 1. Draw the following house by *combining* shapes. 
 2. Draw the same house with `beginShape` and `endShape`.  
 ![house](img/house.png)  
 3. Draw a smiley with simple shapes.   
-For this task, you will need to have a look at the reference for drawing an [**arc**](https://p5js.org/reference/p5/arc/).  
+For this task, you will need to have a look at [arcs](../../02_scripts/ccfb_ss26_03_drawing_script.md#arc).  
 ![face](img/face.png)
 4. Draw a creative image with simple shapes. 
 
-#### Inspiration
+### Inspiration
 
-Your creative image can really be anything.  
+You creative image can really be anything.  
 
 In the context of creative coding and putting coding in an artistic context, you could try to think about carefully constructing a [visual design](https://editor.p5js.org/legie/sketches/cikqyBxbd). In my experience the visual quality is seldomly connected to the coding skills. Make use of what you have!
 
@@ -79,6 +89,10 @@ Some inspirations from classical artists:
 
 
 
+
+
+
+*Submission*: Add links to your sketches in your OwnCloud file.
 
 ---
 
