@@ -3,8 +3,7 @@ layout: true
 class: center, middle, inverse
 ---
 
-### Code as Material
-## Creative Coding Foundations for Artistic and Design Practices
+# Creative Coding For Beginners
 
 #### - Intro -
 

@@ -132,8 +132,8 @@ Tuesdays 14:00-17:00 on the following dates in room 5104:
 ### 2 SWS + ECTS
 
 * 2 ECTS for attending the lectures 
-* 2 ECTS for the homework assignments 
-* 1-3 ECTS for the final project
+* 1-2 ECTS for the homework assignments (all homework done = 2 ECTS)
+* 1-3 ECTS for the final project (number of points depend on the quantity and quality of your submission)
 
 You can hand in homework until July 24th to make it count. This is a hard deadline.
 
@@ -155,7 +155,7 @@ Feel free to get in touch with me before or during your work for any additional 
   
 ## Materials
 
-All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_ss25_creative_coding_for_beginners/). Each morning the material for that day is uploaded.
+All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_ss26_creative_coding_for_beginners/). Each morning the material for that day is uploaded.
 
 ### Coding
 

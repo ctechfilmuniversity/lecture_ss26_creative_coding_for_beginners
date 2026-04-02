@@ -3,8 +3,8 @@ layout: true
 class: center, middle, inverse
 ---
 
-# Code as Material
-## From Instruction to Expression
+# Creative Coding For Beginners
+
 
 #### - Setup -
 
