@@ -11,8 +11,7 @@ has_children: false
 
 ---
 
-![learningliftoff](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png)  
-[[learningliftoff]](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png)  
+![learningliftoff](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png) [[learningliftoff]](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png)  
 
 This course offers a basic introduction to programming with focus on graphics, sound and interaction. The programming framework is p5. Students gain fundamental programming skills and reflect on the usage of software in a creative context.
 

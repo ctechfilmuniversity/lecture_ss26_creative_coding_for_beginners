@@ -41,10 +41,10 @@ Think about it why you want to learn creative coding. What would you like to ach
 
 ## Task 01.04 - Drawing - 14 Points
 
-1. Draw the following house by *combining* shapes. (1 Points)
-2. Draw the same house with `beginShape` and `endShape`. (2 Points)
+1. Draw the following house by *combining* shapes. (1 Points)  
+2. Draw the same house with `beginShape` and `endShape`. (2 Points)  
 ![house](img/house.png)  
-3. Draw a smiley with simple shapes. (4 Points)
+3. Draw a smiley with simple shapes. (4 Points)  
 For this task, you will need to have a look at [arcs](../../02_scripts/ccfb_ss26_03_drawing_script.md#arc).  
 ![face](img/face.png)
 4. Draw a creative image with simple shapes. (7 Points)
