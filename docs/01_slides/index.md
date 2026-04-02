@@ -15,12 +15,19 @@ has_children: false
 
 In this section you find all slides for the course.
 
-## Day 1  
+## Session 1  
 
 * [Slides 01 - Intro](../01_slides/ccfb_ss26_01_intro_slides.html)
 * [Slides 02 - Setup](../01_slides/ccfb_ss26_02_setup_slides.html)
 * [Slides 03 - Drawing](../01_slides/ccfb_ss26_03_drawing_slides.html)
 
+
+
+
+
+
+
+<!-- 
 
 ### Code Examples
 
@@ -30,11 +37,6 @@ In this section you find all slides for the course.
 * [Sunset](https://editor.p5js.org/legie/sketches/YTAZHoV9G)
 * [Rainbow](https://editor.p5js.org/legie/sketches/nDLR627Oo)
 
-
-
-
-
-<!-- 
 
 ## Day 2  
   
