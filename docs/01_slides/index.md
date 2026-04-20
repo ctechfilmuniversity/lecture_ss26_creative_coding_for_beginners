@@ -17,17 +17,9 @@ In this section you find all slides for the course.
 
 ## Session 1  
 
-* [Slides 01 - Intro](../01_slides/ccfb_ss26_01_intro_slides.html)
-* [Slides 02 - Setup](../01_slides/ccfb_ss26_02_setup_slides.html)
-* [Slides 03 - Drawing](../01_slides/ccfb_ss26_03_drawing_slides.html)
-
-
-
-
-
-
-
-<!-- 
+* [Session 01](../01_slides/ccfb_ss26_01_intro_slides.html)
+* [Chapter 02 - Setup](../01_slides/ccfb_ss26_02_setup_slides.html)
+* [Chapter 03 - Drawing](../01_slides/ccfb_ss26_03_drawing_slides.html)
 
 ### Code Examples
 
@@ -36,6 +28,22 @@ In this section you find all slides for the course.
 * [House](https://editor.p5js.org/legie/sketches/CM0lOfVej)
 * [Sunset](https://editor.p5js.org/legie/sketches/YTAZHoV9G)
 * [Rainbow](https://editor.p5js.org/legie/sketches/nDLR627Oo)
+
+## Session 2  
+
+* [Session 02](../01_slides/ccfb_ss26_session02_slides.html)
+* [Chapter 04 - Flow & Interaction](../01_slides/ccfb_ss26_04_flow_slides.html)
+* [Chapter 05 - Conditionals](../01_slides/ccfb_ss26_05_conditionals_slides.html)
+* [Chapter 06 - Variables](../01_slides/ccfb_ss26_06_variables_slides.html)
+
+
+
+
+
+
+
+
+<!-- 
 
 
 ## Day 2  
