@@ -21,7 +21,7 @@ In this section you find all slides for the course.
 * [Chapter 02 - Setup](../01_slides/ccfb_ss26_02_setup_slides.html)
 * [Chapter 03 - Drawing](../01_slides/ccfb_ss26_03_drawing_slides.html)
 
-### Code Examples
+#### Code Examples
 
 * [Circles](https://editor.p5js.org/legie/sketches/cikqyBxbd)
 * [Smiley](https://editor.p5js.org/legie/sketches/OSry0JiW2)
