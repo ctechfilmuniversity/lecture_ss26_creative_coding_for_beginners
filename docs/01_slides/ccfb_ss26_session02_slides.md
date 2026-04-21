@@ -29,15 +29,16 @@ layout:false
 --
 * Conditionals
     * *if [...] happens, then...*
-  
 
---
+???
 * Variables
     * *store values*
 
 
 --
 
+
+<br />
 
 Some follow along coding...
 
@@ -60,8 +61,6 @@ Some follow along coding...
 
 --
     * Commands are calling functions
-
---
     * Functions must be defined somewhere 
   
 ```js
@@ -80,6 +79,10 @@ function myname() {
 * Commands
     * Commands are calling functions
     * Functions must be defined somewhere 
+  
+
+--
+
 * System Loop
 
 --
@@ -101,13 +104,13 @@ function myname() {
         * `rect()`, `cricle()`, etc.
 
 --
-* Coloring
+    * Coloring
 
 --
-    * RGB
+        * RGB
 
 --
-    * Active until changed or deactivated
+        * Active until changed or deactivated
 
 --
 * Comments
@@ -115,6 +118,25 @@ function myname() {
 --
     * `//`, `/* */`
 
+
+
+---
+layout:false
+.header[Exercises Session 1]
+## Task 01.01 - Learning Materials
+
+Recap the slides:
+
+* [Introduction
+* [Setup](./codeasmaterial_02_setup_slides.html)
+* [Drawing](./codeasmaterial_03_drawing_slides.html)
+
+
+---
+.header[Exercises Session 1]
+## Task 01.02 - Setup
+
+Create a account for the [p5.js Editor](https://editor.p5js.org/).
 
 
 ---
@@ -443,11 +465,7 @@ function draw() {
 ]
 
 ???
-* Smiley: https://editor.p5js.org/legie/sketches/F0YfvUAjp
-* Interactive: https://editor.p5js.org/legie/sketches/0lByVe-mH
-* Grid: https://editor.p5js.org/legie/sketches/wLJVJ2z4M
-* Grid & Interactive: https://editor.p5js.org/legie/sketches/fX_uZSsLo
-
+https://editor.p5js.org/legie/sketches/F0YfvUAjp
 
 
 
@@ -457,6 +475,71 @@ function draw() {
 
 Draw a creative image with simple shapes. *Anything is possible!*
 
+
+???
+
+Your creative image can really be anything.  
+
+In the context of creative coding and putting coding in an artistic context, you could try to think about carefully constructing a [visual design](https://editor.p5js.org/legie/sketches/cikqyBxbd). In my experience the visual quality is seldomly connected to the coding skills. Make use of what you have!
+
+---
+.header[Exercises Session 1 | Task 01.04.03 - Drawing | Draw a creative image with simple shapes.]
+
+.left-quarter[Some inspirations from classical artists:]
+
+.right-quarter[<img src="../02_exercises/01_intro/img/mondrian_01.png" alt="mondrian_01" style="width:74%;">  
+.footnote[[Composition A, Piet Mondriaan, 1923](https://www.wikiart.org/de/piet-mondrian/composition-a-1923)]]
+
+
+---
+.header[Exercises Session 1 | Task 01.04.03 - Drawing | Draw a creative image with simple shapes.]
+
+.left-quarter[Some inspirations from classical artists:]
+
+.right-quarter[<img src="../02_exercises/01_intro/img/kandinsky_02.jpg" alt="kandinsky_02" style="width:70%;">  
+.footnote[[Several Circles, Wassily Kandinsky, 1926](https://en.wikipedia.org/wiki/File:Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg)]]
+ 
+  
+---
+.header[Exercises Session 1 | Task 01.04.03 - Drawing | Draw a creative image with simple shapes.]
+
+.left-quarter[Some inspirations from classical artists:]
+
+.right-quarter[<img src="../02_exercises/01_intro/img/balazova_01.jpg" alt="balazova_01" style="width:70%;">  
+.footnote[[Hadia geometria 36 – Alphabet 1, Mária Balážová, 1956](https://www.1stdibs.com/art/prints-works-on-paper/abstract-prints-works-on-paper/yaacov-agam-thanksgiving/id-a_13123922/)]]
+ 
+  
+
+  
+---
+.header[Exercises Session 1 | Task 01.04.03 - Drawing | Draw a creative image with simple shapes.]
+
+.left-quarter[Some inspirations from classical artists:]
+
+.right-quarter[<img src="../02_exercises/01_intro/img/waldheims_01.jpg" alt="waldheims_01" style="width:70%;">  
+.footnote[[[Drawing #220, Zanis Waldheims, 1969]](https://post.moma.org/zanis-waldheims/) ]]
+ 
+  
+  
+---
+.header[Exercises Session 1 | Task 01.04.03 - Drawing | Draw a creative image with simple shapes.]
+
+.left-quarter[Some inspirations from classical artists:]
+
+.right-quarter[<img src="../02_exercises/01_intro/img/agam_01.png" alt="agam_01" style="width:94%;">  
+.footnote[[[Thanksgiving, Yaacov Agam, 1980]](https://www.1stdibs.com/art/prints-works-on-paper/abstract-prints-works-on-paper/yaacov-agam-thanksgiving/id-a_13123922/)]]
+ 
+  
+
+  
+---
+.header[Exercises Session 1 | Task 01.04.03 - Drawing | Draw a creative image with simple shapes.]
+
+.left-quarter[Some inspirations from classical artists:]
+
+.right-quarter[<img src="../02_exercises/01_intro/img/molnar_01.jpg" alt="molnar_01" style="width:70%;">  
+.footnote[[[Dürer, Pair Impair A, Vera Molnar, 2021]](https://www.apollonia-art-exchanges.com/en/vera-molnar/)]]
+ 
 
 ---
 template:inverse 

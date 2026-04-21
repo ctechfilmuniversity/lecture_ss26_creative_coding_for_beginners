@@ -29,7 +29,6 @@ Recap the slides:
 
 * [Chapter 04 - Flow & Interaction](../01_slides/ccfb_ss26_04_flow_slides.html)
 * [Chapter 05 - Conditionals](../01_slides/ccfb_ss26_05_conditionals_slides.html)
-* [Chapter 06 - Variables](../01_slides/ccfb_ss26_06_variables_slides.html) (only if we covered this topic in class)
 
 
 *Submission*: -
