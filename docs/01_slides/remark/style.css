@@ -33,6 +33,12 @@ ul {
     margin: .3em; 
 } 
 
+/* fix: inconsistent bullet spacing caused by loose markdown lists (one item tight list, multiple loose) */
+/* .remark-slide-content li p {
+    margin: 0;
+    display: inline-block;
+} */
+
 .red { color: #fa0000; }
 .green { color: #08fa00; }
 .blue { color: #4b00fa; }
@@ -70,6 +76,7 @@ code {
     font-size: 0.9em;
     padding: 15px;
 }
+
 
 
 .inverse {
