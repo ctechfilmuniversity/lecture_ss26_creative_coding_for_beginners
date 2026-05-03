@@ -35,8 +35,9 @@ In this section you find all slides for the course.
 * [Chapter 04 - Flow & Interaction](../01_slides/ccfb_ss26_04_flow_slides.html)
 * [Chapter 05 - Conditionals](../01_slides/ccfb_ss26_05_conditionals_slides.html)
 
+#### Code Example
 
-
+* [Mouse & Keys Input](https://editor.p5js.org/legie/sketches/HDWQbzDU8)
 
 
 
@@ -55,7 +56,7 @@ In this section you find all slides for the course.
 ### Code Examples
 
 * [HSB Color Lines](https://editor.p5js.org/legie/sketches/Twi0zY9q6) ([with variables](https://editor.p5js.org/legie/sketches/SqtX-ElZP))
-* [Mouse & Keys Input](https://editor.p5js.org/legie/sketches/HDWQbzDU8)
+
 * [Circle Animation](https://editor.p5js.org/legie/sketches/dJcTRYKbC)
   
 
