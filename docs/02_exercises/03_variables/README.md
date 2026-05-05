@@ -26,15 +26,9 @@ Recap the slides:
 
 *Submission*: -
 
-<!-- 
-
-https://editor.p5js.org/
-https://happycoding.io/tutorials/p5js/animation/falling-line
-
- -->
 
 
-## Task 03.01 - Animation - 15 Points
+## Task 03.02 - Animation - 15 Points
 
 1. Write a sketch with the following output (the colors are set randomly):
 
@@ -47,7 +41,7 @@ https://happycoding.io/tutorials/p5js/animation/falling-line
 *Submission*: Add a link to your sketch in your OwnCloud file.
 
 
-## Task 03.02 - Animation - 15 Points
+## Task 03.03 - Animation - 15 Points
 
 Create a sketch up to your liking that animates certain properties of the visuals (see the [example from class](https://editor.p5js.org/legie/sketches/pA5Ddli51)). The goal is to practice the use of variables.
   
