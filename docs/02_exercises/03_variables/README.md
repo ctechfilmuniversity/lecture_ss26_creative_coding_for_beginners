@@ -30,13 +30,15 @@ Recap the slides:
 
 ## Task 03.02 - Animation - 15 Points
 
-1. Write a sketch with the following output (the colors are set randomly):
+#### 1. Write a sketch with the following output:
 
 ![](./img/square-fill-1.gif)
 
+Notes
+* The colors are set randomly
+* There is no increase of speed for the smaller squares - that is an optical illusion.
 
-
-2. Change the coloring up to your liking.
+#### 2. Change the coloring up to your liking.
   
 *Submission*: Add a link to your sketch in your OwnCloud file.
 
