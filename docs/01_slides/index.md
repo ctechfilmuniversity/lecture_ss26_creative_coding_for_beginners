@@ -40,18 +40,15 @@ In this section you find all slides for the course.
 * [Mouse & Keys Input](https://editor.p5js.org/legie/sketches/HDWQbzDU8)
 
 
+## Session 3
+
+* [Session 03](../01_slides/ccfb_ss26_session03_slides.html)
+* [Chapter 06 - Variables](../01_slides/ccfb_ss26_06_variables_slides.html)
+
 
 
 <!-- 
 
-* [Chapter 06 - Variables](../01_slides/ccfb_ss26_06_variables_slides.html)
-
-
-## Day 2  
-  
-* [Slides 04 - Program Flow & Interaction](../01_slides/ccfb_ss26_04_flow_slides.html)
-* [Slides 05 - Conditionals](../01_slides/ccfb_ss26_05_conditionals_slides.html)
-* [Slides 06 - Variables](../01_slides/ccfb_ss26_06_variables_slides.html)
 
 ### Code Examples
 
