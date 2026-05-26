@@ -45,16 +45,20 @@ In this section you find all slides for the course.
 * [Session 03](../01_slides/ccfb_ss26_session03_slides.html)
 * [Chapter 06 - Variables](../01_slides/ccfb_ss26_06_variables_slides.html)
 
+#### Code Example
 
+* [HSB Color Lines](https://editor.p5js.org/legie/sketches/Twi0zY9q6) ([with variables](https://editor.p5js.org/legie/sketches/SqtX-ElZP))
+* [Circle Animation](https://editor.p5js.org/legie/sketches/dJcTRYKbC)
+
+## Session 4
+
+
+* [Session 04](../01_slides/ccfb_ss26_session04_slides.html)
+* [Chapter 04 - Loops](../01_slides/ccfb_ss26_07_loops_slides.html)
 
 <!-- 
 
 
-### Code Examples
-
-* [HSB Color Lines](https://editor.p5js.org/legie/sketches/Twi0zY9q6) ([with variables](https://editor.p5js.org/legie/sketches/SqtX-ElZP))
-
-* [Circle Animation](https://editor.p5js.org/legie/sketches/dJcTRYKbC)
   
 
 ## Day 3

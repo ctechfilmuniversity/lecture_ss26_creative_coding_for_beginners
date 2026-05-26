@@ -139,7 +139,7 @@ To create conditions, we use operators
 
 --
 ```js
-if ((mouseX > 50) {
+if (mouseX > 50) {
     //...
 }
 ```
