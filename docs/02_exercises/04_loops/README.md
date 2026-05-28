@@ -29,11 +29,17 @@ Recap the scripts:
 
 ## Task 04.02 - A Grid Pattern - 8 Points
 
-Write a sketch that generates a repetitive pattern based on a grid. You can use the code from the script as basis. Ideally, your pattern should follow an element-by-element and row-by-row iterative creation process - but don't feel limited be this. If you have other ideas for creating a pattern, go for it! The overall goal is to create a visual pleasing or interesting pattern up to your liking.  
-
-Here an example:
-
 ![pattern_01](img/pattern_01.png)
+
+
+Write a sketch that generates a repetitive pattern based on a grid. You can use the given code as basis. Ideally, your pattern should follow an element-by-element and row-by-row iterative creation process - but don't feel limited be this. If you have other ideas for creating a pattern, go for it! The overall goal is to create a visual pleasing or interesting pattern up to your liking.  
+
+Code Examples:
+* [A grid](https://editor.p5js.org/legie/sketches/SZizP2bdK)
+* [Smileys on a grid](https://editor.p5js.org/legie/sketches/gWrTdv_Gvu)
+* [Interactive circles on a grid](https://editor.p5js.org/legie/sketches/UPgvuNH07)
+
+
 
 *Submission*: Add a link to your sketch in your OwnCloud file.
 
