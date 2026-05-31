@@ -18,9 +18,9 @@ This session is due on **Tuesday, June 2nd** before class.
 ## Task 04.01 - Loops
 
 
-Recap the scripts:
+Recap the slides:
 
-* [Loops](../../02_scripts/ccfb_ss26_07_loops_script.md)
+* [Loops](../../01_slides/ccfb_ss26_07_loops_slides.html)
 
 
 *Submission*: -
