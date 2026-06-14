@@ -52,9 +52,20 @@ In this section you find all slides for the course.
 
 ## Session 4
 
-
 * [Session 04](../01_slides/ccfb_ss26_session04_slides.html)
-* [Chapter 04 - Loops](../01_slides/ccfb_ss26_07_loops_slides.html)
+* [Chapter 07 - Loops](../01_slides/ccfb_ss26_07_loops_slides.html)
+
+#### Code Example
+
+* [Loop Evolution](https://editor.p5js.org/legie/sketches/uO_y3MUZQ)
+* [Loop Inside Draw](https://editor.p5js.org/legie/sketches/P9nGLtSJq) ([as circle](https://editor.p5js.org/legie/sketches/q53DdC1ul)) 
+* [Interactive Circles on a Grid](https://editor.p5js.org/legie/sketches/HkHM-OSag)
+
+## Session 5
+
+* [Chapter 08 - Programming](../01_slides/ccfb_ss26_08_programming_slides.html)
+* [Chapter 09 - Images](../01_slides/ccfb_ss26_09_images_slides.html)
+
 
 <!-- 
 
@@ -84,15 +95,14 @@ In this section you find all slides for the course.
 
 * [Interactive Smiley](https://editor.p5js.org/legie/sketches/0lByVe-mH)
 * [10 Print Pattern](https://editor.p5js.org/legie/sketches/nrfQTzxMI)
-* [Interactive Circles on a Grid](https://editor.p5js.org/legie/sketches/HkHM-OSag)
-* [Loop Inside Draw](https://editor.p5js.org/legie/sketches/P9nGLtSJq) ([as circle](https://editor.p5js.org/legie/sketches/q53DdC1ul)) 
+
+
 * [Images - Reading Pixel Data](https://editor.p5js.org/legie/sketches/H6uqSnexq)
 * [Images - Animated](https://editor.p5js.org/legie/sketches/NA8Sqzyis)
 * [Images - Resizing](https://editor.p5js.org/legie/sketches/SLLLmgMX_)
 * [Gird - Checkerboard](https://editor.p5js.org/legie/sketches/_NHk4arDR)
 * [Grid - Split Diagonal](https://editor.p5js.org/legie/sketches/5x1bAs66K)
 * [Grid - Diagonal](https://editor.p5js.org/legie/sketches/lWJGIhhtI)
-* [Loop Evolution](https://editor.p5js.org/legie/sketches/uO_y3MUZQ)
 
 
 
